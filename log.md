@@ -7,13 +7,12 @@
 - Create own projects
 
 
-
 ### Day 1: November 8, Monday
 
-**Today's Progress**: Finished 2 out of 3 exercises in problem set 4 of CS50.
+**Today's Progress**: Successfully implemented 2 out of 3 exercises in problem set 4 of CS50 (whodunit and resize less).
 
 **Thoughts** This course is really challenging! I am surprised at the level of complexity they teach supposedly beginners. On the other hand, it's also really rewarding when you finally get it 100% right! 
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [Twitter update](https://twitter.com/jainnielyn/status/1060529654849773568)
+
