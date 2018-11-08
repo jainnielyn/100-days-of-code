@@ -2,9 +2,10 @@
 
 *Background: Received BS Computer Science in 2011, cum laude. However, due to some circumstances, did not go into tech. Currently working full-time, but realized coding is what I **really** want to do!*
 
-Goals:
+### Goals:
 - Refresh basic computer science knowledge (by completing Harvard's CS50 course)
 - Create own projects
+
 
 ### Day 1: November 8, Monday
 
