@@ -3,11 +3,11 @@
 *Background: Received BS Computer Science in 2011, cum laude. However, due to some circumstances, did not go into tech. Currently working full-time, but realized coding is what I **really** want to do!*
 
 #### Goals:
-- Refresh basic computer science knowledge (by completing Harvard's CS50 course)
+- Refresh basic computer science knowledge (by completing Harvard's CS50 course). Will not be uploading code for this (no cheating!).
 - Create own projects
 
 
-### Day 1: November 8, Monday
+### Day 1: November 8, Thursday
 
 **Today's Progress**: Successfully implemented 2 out of 3 exercises in problem set 4 of CS50 (whodunit and resize less).
 
@@ -16,3 +16,11 @@
 **Link(s) to work**
 1. [Twitter update](https://twitter.com/jainnielyn/status/1060529654849773568)
 
+### Day 2: November 9, Friday
+
+**Today's Progress**: Coded recover exercise. This completes pset4!!
+
+**Thoughts** Had a tough time understanding pointers (* and &) and fopen/fwrite/fread. 
+
+**Link(s) to work**
+1. [Documentation](http://www.cplusplus.com/reference/cstdio/fwrite/)
