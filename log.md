@@ -24,3 +24,17 @@
 
 **Link(s) to work**
 1. [Documentation](http://www.cplusplus.com/reference/cstdio/fwrite/)
+
+### Day 3: November 10, Saturday
+
+**Today's Progress**: Watched lecture for week 5 of CS50. Learned more about pointers in C, and some intro to linked lists.
+
+**Thoughts** I understand malloc, but it hasn't really sunk in. Maybe when I start using it...
+
+
+### Day 4: November 11, Sunday
+
+**Today's Progress**: A little relaxed on a Sunday, but still watched the short videos pre-coding exercises.
+
+**Thoughts** Excited to use data structures, linked lists, queues and stacks!
+
