@@ -25,6 +25,7 @@
 **Link(s) to work**
 1. [Documentation](http://www.cplusplus.com/reference/cstdio/fwrite/)
 
+
 ### Day 3: November 10, Saturday
 
 **Today's Progress**: Watched lecture for week 5 of CS50. Learned more about pointers in C, and some intro to linked lists.
@@ -37,4 +38,11 @@
 **Today's Progress**: A little relaxed on a Sunday, but still watched the short videos pre-coding exercises.
 
 **Thoughts** Excited to use data structures, linked lists, queues and stacks!
+
+
+### Day 5: November 12, Monday
+
+**Today's Progress**: Completed all short videos of week 5 (data structures). Started looking over problem set 5, speller.
+
+**Thoughts** Somehow, even after completing problem sets 1 through 4, whenever I go through the next specifications, it feels daunting. "Omg this is so difficult."
 
