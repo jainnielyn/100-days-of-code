@@ -10,7 +10,7 @@
 
 ### Day 1: November 8, Thursday
 
-**Today's Progress**: Successfully implemented 2 out of 3 exercises in *problem set 4* of CS50 (whodunit and resize less).
+**Today's Progress**: Successfully implemented 2 out of 3 exercises in **problem set 4** of CS50 (whodunit and resize less).
 
 **Thoughts** This course is really challenging! I am surprised at the level of complexity they teach supposedly beginners. On the other hand, it's also really rewarding when you finally get it 100% right! 
 
@@ -29,7 +29,7 @@
 
 ### Day 3: November 10, Saturday
 
-**Today's Progress**: Watched lecture for *week 5* of CS50. Learned more about pointers in C, and some intro to linked lists.
+**Today's Progress**: Watched lecture for **week 5** of CS50. Learned more about pointers in C, and some intro to linked lists.
 
 **Thoughts** I understand malloc, but it hasn't really sunk in. Maybe when I start using it...
 
@@ -43,7 +43,7 @@
 
 ### Day 5: November 12, Monday
 
-**Today's Progress**: Completed all short videos of week 5 (data structures). Started looking over *problem set 5*, speller.
+**Today's Progress**: Completed all short videos of week 5 (data structures). Started looking over **problem set 5**, speller.
 
 **Thoughts** Somehow, even after completing problem sets 1 through 4, whenever I go through the next specifications, it feels daunting. "Omg this is so difficult."
 
