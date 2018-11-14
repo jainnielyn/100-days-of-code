@@ -47,3 +47,10 @@
 
 **Thoughts** Somehow, even after completing problem sets 1 through 4, whenever I go through the next specifications, it feels daunting. "Omg this is so difficult."
 
+
+### Day 6: November 13, Tuesday
+
+**Today's Progress**: Reviewed all .c and .h files to understand the basic structure given, answered questions for pset 5.
+
+**Thoughts** It wasn't that difficult after all! Mood is important, when I'm tired my brain rejects having to understand code (anything, really), and then negative self talk happens. Will enforce sleeping early more, and be more understanding when unforeseen circumstances prevent me from doing so.
+
