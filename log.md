@@ -54,3 +54,10 @@
 
 **Thoughts** It wasn't that difficult after all! Mood is important, when I'm tired my brain rejects having to understand code (anything, really), and then negative self talk happens. Will enforce sleeping early more, and be more understanding when unforeseen circumstances prevent me from doing so.
 
+
+### Day 7: November 14, Wednesday
+
+**Today's Progress**: Started working on function load for speller. Decided to use a trie data structure for word lookup time optimization.
+
+**Thoughts** Still confused about how pointers in a trie work and how to use them in code, but Google has been good help. Videos of other people implementing tries shed some light as well.
+
