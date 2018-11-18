@@ -78,6 +78,6 @@
 
 ### Day 10: November 18, Sunday
 
-**Today's Progress**: Working on the valgrind memory leak. 
+**Today's Progress**: Working on the valgrind memory leak. 4:30pm: Finally!!! Fixed memory leak and got 100% on speller! 
 
-**Thoughts** What does "still reachable" even mean?!
+**Thoughts** What does "still reachable" even mean?! Knowledge gap cleared on recursion!! Realized I was still missing something in recursion. "Delete everybody else, ***then delete me.***" So added lines for deletion of node after it deletes the lower nodes.
