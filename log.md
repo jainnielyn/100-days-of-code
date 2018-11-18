@@ -61,3 +61,23 @@
 
 **Thoughts** Still confused about how pointers in a trie work and how to use them in code, but Google has been good help. Videos of other people implementing tries shed some light as well.
 
+
+### Day 8: November 15, Thursday
+
+**Today's Progress**: Completed load, check and size for speller!
+
+**Thoughts** Still confused with working with pointers for a trie, but understanding it a little better.
+
+
+### Day 9: November 16, Friday
+
+**Today's Progress**: Completed unload, fixed some bugs! Now the output of my code is the same as the staff solution! Valgrind reports some bytes "still reachable" though...
+
+**Thoughts** Hit a bump on unload using recursion, but remembered that there *should (normally)* be only 2 cases - if this is the last node in the branch, "delete me" or "delete lower node." It was a *eureka!!* moment!
+
+
+### Day 10: November 18, Sunday
+
+**Today's Progress**: Working on the valgrind memory leak. 
+
+**Thoughts** What does "still reachable" even mean?!
