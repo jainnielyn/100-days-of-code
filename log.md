@@ -83,8 +83,15 @@
 **Thoughts** What does "still reachable" even mean?! Knowledge gap cleared on recursion!! Realized I was still missing something in recursion. "Delete everybody else, ***then delete me.***" So added lines for deletion of node after it deletes the lower nodes.
 
 
-### Day 11: November 19, Monday
+### Day 11 & 12: November 19-20, Mon-Tue
 
-**Today's Progress**: Watched a part of CS50 lecture on HTTP.
+**Today's Progress**: Watched CS50 lecture on HTTP (lecture 6).
 
 **Thoughts** Great, David explains the basics of the web well.
+
+
+### Day 13 & 14: November 21-22, Wed-Thu
+
+**Today's Progress**: Watched CS50 shorts on HTTP.
+
+**Thoughts** Good easy explanation on how the web works. HTML and CSS are old friends.
