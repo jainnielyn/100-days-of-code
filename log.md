@@ -92,6 +92,7 @@
 
 ### Day 13 & 14: November 21-22, Wed-Thu
 
-**Today's Progress**: Watched CS50 shorts on HTTP.
+**Today's Progress**: Watched CS50 shorts on HTTP. Watched lecture 7 on dynamic programming.
 
-**Thoughts** Good easy explanation on how the web works. HTML and CSS are old friends.
+**Thoughts** Good easy explanation on how the web works. HTML and CSS are old friends. Yale instructor was confusing in explaining dynamic programming, but a resource for easier understanding is: https://www.youtube.com/watch?v=We3YDTzNXEk
+
