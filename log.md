@@ -96,3 +96,9 @@
 
 **Thoughts** Good easy explanation on how the web works. HTML and CSS are old friends. Yale instructor was confusing in explaining dynamic programming, but a resource for easier understanding is: https://www.youtube.com/watch?v=We3YDTzNXEk
 
+
+### Day 15: November 23, Fri
+
+**Today's Progress**: Watched CS50 lecture on Python.
+
+**Thoughts** Huh. Python is easier than C!
