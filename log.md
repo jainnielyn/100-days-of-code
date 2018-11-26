@@ -102,3 +102,10 @@
 **Today's Progress**: Watched CS50 lecture on Python.
 
 **Thoughts** Huh. Python is easier than C!
+
+
+### Day 16: November 25, Sun
+
+**Today's Progress**: Watched CS50 lecture on Python, continued.
+
+**Thoughts** Python seems interesting!
