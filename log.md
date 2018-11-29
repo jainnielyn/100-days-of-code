@@ -109,3 +109,17 @@
 **Today's Progress**: Watched CS50 lecture on Python, continued.
 
 **Thoughts** Python seems interesting!
+
+
+### Day 17: November 26, Mon
+
+**Today's Progress**: Watched CS50 shorts on Python.
+
+**Thoughts** Want to see how the actuals would be - if it's indeed easier. It's definitely a slightly different way of thinking (like loops are slightly different).
+
+
+### Day 17-19: November 27-29, Tue-Wed
+
+**Today's Progress**: Working on pset6, converting .c files to .py.
+
+**Thoughts** Gained a new understanding of how to code for loops in python. They are indeed quite different than C or Java!
