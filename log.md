@@ -122,4 +122,4 @@
 
 **Today's Progress**: Working on pset6, converting .c files to .py.
 
-**Thoughts** Gained a new understanding of how to code for loops in python. They are indeed quite different than C or Java!
+**Thoughts** Got quite busy so didn't have much time to code recently. Gained a new understanding of how to code for loops in python. They are indeed quite different than C or Java!
