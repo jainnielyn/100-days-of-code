@@ -123,3 +123,10 @@
 **Today's Progress**: Working on pset6, converting .c files to .py.
 
 **Thoughts** Got quite busy so didn't have much time to code recently. Gained a new understanding of how to code for loops in python. They are indeed quite different than C or Java!
+
+
+### Day 20: November 30, Fri
+
+**Today's Progress**: Completed converting credit.c to credit.py
+
+**Thoughts** Ugh, the user input checking was running circles around me. Decided not to use cs50's library of "get_string" but did my own validation instead to learn more. It took longer than expected, haha! But now I gained a new understanding. I like how there are built in string methods(?) where you could easily get the first or last x number of characters!
