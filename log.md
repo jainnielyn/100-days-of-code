@@ -130,3 +130,10 @@
 **Today's Progress**: Completed converting credit.c to credit.py
 
 **Thoughts** Ugh, the user input checking was running circles around me. Decided not to use cs50's library of "get_string" but did my own validation instead to learn more. It took longer than expected, haha! But now I gained a new understanding. I like how there are built in string methods(?) where you could easily get the first or last x number of characters!
+
+
+### Day 21: December 1, Sat
+
+**Today's Progress**: Started converting caesar.c to caesar.py
+
+**Thoughts** So in C it took some getting used to having the chars as integers, but easier to shift them. Now in python, it takes some getting used to having a character as an actual character. Got analysis paralysis thinking about the best way to add a key per character, so will continue tomorrow.
