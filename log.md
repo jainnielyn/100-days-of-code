@@ -138,3 +138,10 @@
 
 **Thoughts** So in C it took some getting used to having the chars as integers, but easier to shift them. Now in python, it takes some getting used to having a character as an actual character. Got analysis paralysis thinking about the best way to add a key per character, so will continue tomorrow.
 Had another crack at it after a break, and completed it using the string library! (and a pythonic solution, I hope?)
+
+
+### Day 22: December 2, Sun
+
+**Today's Progress**: Completed converting vigenere into python.
+
+**Thoughts** Python is really handy! Makes coding easier!
