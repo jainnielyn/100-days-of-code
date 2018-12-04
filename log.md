@@ -145,3 +145,12 @@ Had another crack at it after a break, and completed it using the string library
 **Today's Progress**: Completed converting vigenere into python.
 
 **Thoughts** Python is really handy! Makes coding easier!
+
+
+### Day 23: December 3, Mon
+
+**Today's Progress**: Coded lines and sentences for similarities exercise. (Comparing 2 files together and comparing by line or by sentence)
+
+**Thoughts** Oh, after the time spent understand all the files in the set, coding the actual functions was quicker than I expected! 
+
+
