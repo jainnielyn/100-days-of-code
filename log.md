@@ -154,3 +154,8 @@ Had another crack at it after a break, and completed it using the string library
 **Thoughts** Oh, after the time spent understand all the files in the set, coding the actual functions was quicker than I expected! 
 
 
+### Day 24: December 4, Tue
+
+**Today's Progress**: Finished similarities (less)! Starting on similarities (more).
+
+**Thoughts** Similarities (less comfortable) was a little too easy, so will also work on the more comfortable version!
