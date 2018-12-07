@@ -159,3 +159,10 @@ Had another crack at it after a break, and completed it using the string library
 **Today's Progress**: Finished similarities (less)! Starting on similarities (more).
 
 **Thoughts** Similarities (less comfortable) was a little too easy, so will also work on the more comfortable version!
+
+
+### Day 25-26: December 5-6, Wed-Thu
+
+**Today's Progress**: Completed distances and index.html for similarities (more comfortable). Also part of matrix.html.
+
+**Thoughts** It took me a while to figure out how to work with tuples in a 2D matrix (Imagining it gets a little complicated), also because the CS50 explanation is not crystal clear. Good thing there was that youtube video that explained edit distance better. For matrix.html, I can now print the costs of the matrix. I only need to print string a and b at the top row and leftmost column.
