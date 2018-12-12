@@ -177,6 +177,6 @@ Had another crack at it after a break, and completed it using the string library
 
 ### Day 28: December 11, Tue
 
-**Today's Progress**: Watched SQL shorts
+**Today's Progress**: Watched SQL shorts. Read specifications for CS50 finance.
 
-**Thoughts** 
+**Thoughts** Wow, much difficult...
