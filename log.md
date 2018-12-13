@@ -184,6 +184,6 @@ Had another crack at it after a break, and completed it using the string library
 
 ### Day 29: December 12, Wed
 
-**Today's Progress**: Completed register function, started with quote function... completed quote function!
+**Today's Progress**: Completed register function, started with quote function... completed quote function! Started with buy function.
 
 **Thoughts** This problem set is pretty challenging! Confused with how python and SQL and Jinja all come together, makes progress slower.
