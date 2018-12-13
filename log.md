@@ -180,3 +180,10 @@ Had another crack at it after a break, and completed it using the string library
 **Today's Progress**: Watched SQL shorts. Read specifications for CS50 finance.
 
 **Thoughts** Wow, much difficult...
+
+
+### Day 29: December 12, Wed
+
+**Today's Progress**: Completed register function, started with quote function.
+
+**Thoughts** This problem set is pretty challenging! Confused with how python and SQL and Jinja all come together, makes progress slower.
