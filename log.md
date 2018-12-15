@@ -194,3 +194,19 @@ Had another crack at it after a break, and completed it using the string library
 **Today's Progress**: Completed buy function.
 
 **Thoughts** Starting to get the hang of python + SQL! Still don't like Jinja though.
+
+
+### Day 31: December 14, Fri
+
+**Today's Progress**: Worked on index, just need to display the cash and total portoflio value in a format...
+
+**Thoughts** Hello 'group by' syntax in SQL! I meet you again.
+
+
+### Day 32: December 15, Sat
+
+**Today's Progress**: Completed index. Started with sell.
+
+**Thoughts** Turns out the format functionality is in the jinja documentation! Cool, almost done with the functionality in this problem set. Will need to go back and make it optimal later.
+
+
