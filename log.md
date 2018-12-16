@@ -210,3 +210,9 @@ Had another crack at it after a break, and completed it using the string library
 **Thoughts** Turns out the format functionality is in the jinja documentation! Cool, almost done with the functionality in this problem set. Will need to go back and make it optimal later.
 
 
+### Day 33: December 16, Sun
+
+**Today's Progress**: Completed sell, and fixed formatting of dollar amounts in index.
+
+**Thoughts** Was putting off writing the nitty gritty code for updating the stock amounts, as I knew it was going to be a little complicated. There are many transactions for each symbol bought, with differing amounts. So subtracting the amount of stocks the user wants to sell can be a little tricky. (What if there are 10 lines for the stock, and one line could be greater than/less than/equal to the sell amount of shares) But I was able to do it easier than I expected! Trick was to be well rested, and utilize pseudocode!
+
