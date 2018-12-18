@@ -226,6 +226,6 @@ Had another crack at it after a break, and completed it using the string library
 
 ### Day 35: December 18, Tue
 
-**Today's Progress**: XX.
+**Today's Progress**: Completed history!
 
-**Thoughts** XX
+**Thoughts** Yay!! *happy dance* The bulk of the work was configuring the SQL structure, then it was easy peasy to code the html template with Jinja. Learned Jinja's ternary operator (e.g. 'Update' if Case else 'Continue')
