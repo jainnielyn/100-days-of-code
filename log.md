@@ -216,3 +216,16 @@ Had another crack at it after a break, and completed it using the string library
 
 **Thoughts** Was putting off writing the nitty gritty code for updating the stock amounts, as I knew it was going to be a little complicated. There are many transactions for each symbol bought, with differing amounts. So subtracting the amount of stocks the user wants to sell can be a little tricky. (What if there are 10 lines for the stock, and one line could be greater than/less than/equal to the sell amount of shares) But I was able to do it easier than I expected! Trick was to be well rested, and utilize pseudocode!
 
+
+### Day 34: December 17, Mon
+
+**Today's Progress**: Implemented history 2/3 of the way.
+
+**Thoughts** Before coding I took some time to think of the "best" approach then did sample cases on paper (which would highlight the algorithm) - doing it on paper *first* really helps a lot!
+
+
+### Day 35: December 18, Tue
+
+**Today's Progress**: XX.
+
+**Thoughts** XX
