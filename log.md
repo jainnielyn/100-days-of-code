@@ -229,3 +229,10 @@ Had another crack at it after a break, and completed it using the string library
 **Today's Progress**: Completed history!
 
 **Thoughts** Yay!! *happy dance* The bulk of the work was configuring the SQL structure, then it was easy peasy to code the html template with Jinja. Learned Jinja's ternary operator (e.g. 'Update' if Case else 'Continue')
+
+
+### Day 36-38: December 19-21, Wed-Fri
+
+**Today's Progress**: Added a way to change password.
+
+**Thoughts** Ran into multiple issues when running check50, but eventually worked it all out! Now I'm 5/5 for both style and correctness!
