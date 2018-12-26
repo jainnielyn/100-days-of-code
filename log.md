@@ -236,3 +236,24 @@ Had another crack at it after a break, and completed it using the string library
 **Today's Progress**: Added a way to change password.
 
 **Thoughts** Ran into multiple issues when running check50, but eventually worked it all out! Now I'm 5/5 for both style and correctness!
+
+
+### Day 39: December 22, Sat
+
+**Today's Progress**: Ran checks, revised code and completed CS50 finance!
+
+**Thoughts** Yay!!
+
+
+### Day 40-41: December 24-25, Mon-Tue
+
+**Today's Progress**: Watched lecture on Javascript
+
+**Thoughts** Learned a bit of JS a while back, but it feels like the Python knowledge overwritten it in my mind, haha. It still seems familiar though, I would only need to code to bring it back!
+
+
+### Day 42: December 26, Wed
+
+**Today's Progress**: Watched Javascript shorts
+
+**Thoughts** I really like how CS50 shorts teaches you more about the subtopics (versus getting one of the Udemy courses - I feel like they don't explain it well enough.)
