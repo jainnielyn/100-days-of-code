@@ -257,3 +257,25 @@ Had another crack at it after a break, and completed it using the string library
 **Today's Progress**: Watched Javascript shorts
 
 **Thoughts** I really like how CS50 shorts teaches you more about the subtopics (versus getting one of the Udemy courses - I feel like they don't explain it well enough.)
+
+
+### [2019]
+### Day 43: January 2, Wed
+
+**Today's Progress**: Read through mashup, problem set 8
+
+**Thoughts** Okay, I got overwhelmed. Javascript was understandable enough, but this pset seemed like alien language. Had a bout of imposter syndrome and didn't look at it for a few days.
+
+
+### Day 44: January 7, Mon
+
+**Today's Progress**: Created a table for places
+
+**Thoughts** How do you eat an elephant? One bite at a time. Hesitantly, I read the pset again slowly... and discovered that the first thing to do was create a table. Ah, not alien language!
+
+
+### Day 45: January 8, Tue
+
+**Today's Progress**: Completed articles and search from application.py, and configure from scripts.js.
+
+**Thoughts** Whew... ok, it doesn't need an Einstein brain. Now I think, am I really learning? I had to google to find out I needed to use request.get.args. Also, doesn't CS50 give too much to the students? But then again, it wasn't meant to be a hardcore course; just an intro - so it makes sense. I guess I am still in the imposter syndrome phase...
