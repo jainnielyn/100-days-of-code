@@ -258,7 +258,7 @@ Had another crack at it after a break, and completed it using the string library
 
 **Thoughts** I really like how CS50 shorts teaches you more about the subtopics (versus getting one of the Udemy courses - I feel like they don't explain it well enough.)
 
----
+
 ## 2019
 ### Day 43: January 2, Wed
 
