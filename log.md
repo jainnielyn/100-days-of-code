@@ -290,13 +290,13 @@ Had another crack at it after a break, and completed it using the string library
 
 ### Day 47: January 10, Thu
 
-**Today's Progress**: Completed remove markers for CS50 mashup! Completed some kata from codewars, levelled up to 7 gyu.
+**Today's Progress**: Completed remove markers for CS50 mashup! Completed some kata from codewars, levelled up to [7 gyu](https://www.codewars.com/users/jainnielyn).
 
-**Thoughts** This marks the end of CS50 course for me! Yay~ There's actually a "final project" where you think of something to use what you've learned with, but I took CS50 just to refresh myself with coding, so I'm finished with it. After doing some kata on codewars, I realized I need to learn more... JavaScript?
+**Thoughts** This marks the end of CS50 course for me! Yay~ There's actually a "final project" where you think of something to use what you've learned with, but I took CS50 just to refresh myself with coding, so I'm finished with it. After doing some kata on [codewars](https://www.codewars.com), I realized I need to learn more... JavaScript?
 
 
 ### Day 48: January 11, Fri
 
-**Today's Progress**: Watched some videos and completed some challenges on coderbyte. Completed up to lesson X on regexone.
+**Today's Progress**: Watched some videos and completed some challenges on [coderbyte](https://coderbyte.com/course/learn-javascript-in-one-week). Completed up to lesson X on [regexone](https://regexone.com/).
 
 **Thoughts** Coderbyte, learn JS in one week. The basics I already knew (variables, functions, loops). Hit a snag on regular expressions, again. I've been encountering it from katas too. This is what I'm going to learn next. I like regexone because each lesson is bite-sized and easy to understand, plus there's a little exercise to solidify the knowledge. You could also see their solution (hopefully after you complete the exercise), and compare to yours.
