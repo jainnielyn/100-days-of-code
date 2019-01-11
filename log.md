@@ -279,3 +279,24 @@ Had another crack at it after a break, and completed it using the string library
 **Today's Progress**: Completed articles and search from application.py, and configure from scripts.js.
 
 **Thoughts** Whew... ok, it doesn't need an Einstein brain. Now I think, am I really learning? I had to google to find out I needed to use request.get.args. Also, doesn't CS50 give too much to the students? But then again, it wasn't meant to be a hardcore course; just an intro - so it makes sense. I guess I am still in the imposter syndrome phase...
+
+
+### Day 46: January 9, Wed
+
+**Today's Progress**: Fixed issue from yesterday, infobox now shows news.
+
+**Thoughts** The reason why this was happening yesterday is because going through the lookup takes about 4s, and I had infobox open before it could retrieve the news. So I nested infobox open, now it has to wait for the lookup function to complete before opening the window. I know, 4s is forever in today's standards, but it's good enough. For now.
+
+
+### Day 47: January 10, Thu
+
+**Today's Progress**: Completed remove markers for CS50 mashup! Completed some kata from codewars, levelled up to 7 gyu.
+
+**Thoughts** This marks the end of CS50 course for me! Yay~ There's actually a "final project" where you think of something to use what you've learned with, but I took CS50 just to refresh myself with coding, so I'm finished with it. After doing some kata on codewars, I realized I need to learn more... JavaScript?
+
+
+### Day 48: January 11, Fri
+
+**Today's Progress**: Watched some videos and completed some challenges on coderbyte. Completed up to lesson X on regexone.
+
+**Thoughts** Coderbyte, learn JS in one week. The basics I already knew (variables, functions, loops). Hit a snag on regular expressions, again. I've been encountering it from katas too. This is what I'm going to learn next. I like regexone because each lesson is bite-sized and easy to understand, plus there's a little exercise to solidify the knowledge. You could also see their solution (hopefully after you complete the exercise), and compare to yours.
