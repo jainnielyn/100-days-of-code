@@ -297,6 +297,14 @@ Had another crack at it after a break, and completed it using the string library
 
 ### Day 48: January 11, Fri
 
-**Today's Progress**: Watched some videos and completed some challenges on [coderbyte](https://coderbyte.com/course/learn-javascript-in-one-week). Completed up to lesson X on [regexone](https://regexone.com/).
+**Today's Progress**: Watched some videos and completed some challenges on [coderbyte](https://coderbyte.com/course/learn-javascript-in-one-week). Completed up to lesson 9 on [regexone](https://regexone.com/).
 
 **Thoughts** Coderbyte, learn JS in one week. The basics I already knew (variables, functions, loops). Hit a snag on regular expressions, again. I've been encountering it from katas too. This is what I'm going to learn next. I like regexone because each lesson is bite-sized and easy to understand, plus there's a little exercise to solidify the knowledge. You could also see their solution (hopefully after you complete the exercise), and compare to yours.
+
+
+
+### Day 49: January 12, Sat
+
+**Today's Progress**: Completed the rest of the lessons [regexone](https://regexone.com/). Did 1 kata in codewars.
+
+**Thoughts** Ah, I think I know regex a bit now! Regexone's exercises are really difficult though? I wish it were gradually difficult instead. Did a kata to make me feel better about myself haha.
