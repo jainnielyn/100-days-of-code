@@ -325,7 +325,7 @@ Had another crack at it after a break, and completed it using the string library
 
 ### Day 52: January 16, Wed
 
-**Today's Progress**: Started Responsive Web Design curriculum from [freecodecamp]().
+**Today's Progress**: Started Responsive Web Design curriculum from [freecodecamp](https://learn.freecodecamp.org/).
 
 **Thoughts** I plan to make a vacation scheduler web app as a personal project, so I thought this would come in handy. Also, web work has a low barrier of entry, so it would be easy enough to find things to do for people as practice. Finished HTML portion in a blur, that was easy.
 
