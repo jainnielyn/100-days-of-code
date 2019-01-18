@@ -309,8 +309,36 @@ Had another crack at it after a break, and completed it using the string library
 **Thoughts** Ah, I think I know regex a bit now! Regexone's exercises are really difficult though? I wish it were gradually difficult instead. Did a kata to make me feel better about myself haha.
 
 
-### Day 50: January 14, Sun
+### Day 50: January 13, Sun
 
 **Today's Progress**: Completed exercises from w3resource.
 
 **Thoughts** Found a website with better difficulty of exercises, although it's actually for making python code to test for certain regex, I just check my answer against the regex portion of the code. It's not interactive like regexone, but it will do. So far, so good. I'm not stumped how to solve anything yet, though sometimes I miss one character in my solution.
+
+
+### Day 51: January 14, Mon
+
+**Today's Progress**: Did some more exercises from w3resource.
+
+**Thoughts** Their solutions aren't really accurate! Also, I think I have a good grasp of regex more or less even though I can't do the complex exercises from regexone yet. Onto the next topic!
+
+
+### Day 52: January 16, Wed
+
+**Today's Progress**: Started Responsive Web Design curriculum from freecodecamp.
+
+**Thoughts** I plan to make a vacation scheduler web app as a personal project, so I thought this would come in handy. Also, web work has a low barrier of entry, so it would be easy enough to find things to do for people as practice. Finished HTML portion in a blur, that was easy.
+
+
+### Day 53: January 17, Thu
+
+**Today's Progress**: Finished basic CSS portion. Started Applied Visual Design portion.
+
+**Thoughts** Still mostly easy, as I've learned these before. Applied Visual Design was easy at the start, then becomes more complex. Some of these things I don't know about, so learning some new things. Hopefully they stick as the little exercises are a little too much spoonfeeding.
+
+
+### Day 54: January 18, Fri
+
+**Today's Progress**: Finished Applied Visual Design portion.
+
+**Thoughts** The latter portion took me a while. It would have been easy if I just read the spec and did as was instructed, but I want to actually understand what I'm doing, so I understand the idea first and let it sink into my brain.
