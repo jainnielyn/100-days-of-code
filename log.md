@@ -353,6 +353,6 @@ Had another crack at it after a break, and completed it using the string library
 
 ### Day 56: January 20, Sun
 
-**Today's Progress**: Completed the accessibility portion, started with "Responsive Web Design Principles".
+**Today's Progress**: Completed the accessibility portion, completed "Responsive Web Design Principles". Started "CSS Flexbox Challenges".
 
 **Thoughts** xyz 
