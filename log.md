@@ -342,3 +342,17 @@ Had another crack at it after a break, and completed it using the string library
 **Today's Progress**: Finished Applied Visual Design portion.
 
 **Thoughts** The latter portion took me a while. It would have been easy if I just read the spec and did as was instructed, but I want to actually understand what I'm doing, so I understand the idea first and let it sink into my brain.
+
+
+### Day 55: January 19, Sat
+
+**Today's Progress**: Started with "Applied Accessibility" portion.
+
+**Thoughts** It's amazing to see how the internet has been modified to be inclusive to all kinds of people. I haven't really thought about how people with eye or hearing defects use the internet. I am glad there are tools put in place for them so they can use the internet as well. But, I don't think I'll remember all of these... at least I'll remember there's tags for certain things, even if I don't remember the syntax. Easily Google-able. 
+
+
+### Day 56: January 20, Sun
+
+**Today's Progress**: Completed the accessibility portion, started with "Responsive Web Design Principles".
+
+**Thoughts** xyz 
