@@ -355,4 +355,11 @@ Had another crack at it after a break, and completed it using the string library
 
 **Today's Progress**: Completed the accessibility portion, completed "Responsive Web Design Principles". Started "CSS Flexbox Challenges".
 
-**Thoughts** xyz 
+**Thoughts** There's lots of cool things in HTML5 now!
+
+
+### Day 57: January 21, Mon
+
+**Today's Progress**: 
+
+**Thoughts** 
