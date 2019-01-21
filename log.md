@@ -360,6 +360,6 @@ Had another crack at it after a break, and completed it using the string library
 
 ### Day 57: January 21, Mon
 
-**Today's Progress**: 
+**Today's Progress**: Completed CSS flexbox. Started a website using a template for someone.
 
-**Thoughts** 
+**Thoughts** That's a lot of new things. CSS flexbox is a great handy tool to use instead of divs. Hope I remember these properties!
