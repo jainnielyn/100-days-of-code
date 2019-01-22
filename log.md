@@ -372,6 +372,9 @@ Had another crack at it after a break, and completed it using the string library
 **Thoughts** I realize, I don't like front end design. I would still like to finish it though, as it would be a waste if I don't since I'm so close to completing this course from freecodecamp (and that virtual certificate!). Also, the next section is actually for creating projects, so it would be good experience.
 
 After this course, I will start working on my projects. My goal is 3 projects completed by July/August, study for interviews, then start applying by September/October.
+
 Project idea #1: Vacation scheduler - User inputs places s/he wants to visit, code figures out optimized way to go about it (taking into account opening hours, close days, weather and usual time people spend in the area), and spits out day/time schedule.
+
 Project idea #2: A crawler of some sort - I've always wanted to try my hand at crawlers. Initial idea is creating a list of restaurants with lunch specials around the user indicated zip code(?). Useful for work lunches, discovering new restaurants.
+
 Project idea #3: None yet
