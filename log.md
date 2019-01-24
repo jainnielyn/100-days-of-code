@@ -382,7 +382,7 @@ Project idea #3: None yet
 
 ### Day 58: January 23, Wed
 
-**Today's Progress**: Completed CSS flexbox portion in freecodecamp. Completed CSS grid portion. Completed part 1 of web design projects, Tribute Page.
+**Today's Progress**: Completed CSS flexbox portion in freecodecamp. Completed CSS grid portion. Completed first web design project, Tribute Page.
 
 **Thoughts** That was interesting... it was great to finally apply the things I've learned! I may not remember syntax of things, but since I know there are various ways to do things, it's easily solved by my friend Google.
 
@@ -395,8 +395,18 @@ Met with the President of [Philippine American Chamber of Commerce (PACC)](https
 
 ### Day 59: January 24, Thu
 
+**Today's Progress**: Completed second web design project, survey form.
+
+**Thoughts** I got a little stumped with the HTML5 validation until I ran the tester, where I realized they only want to input type to reflect certain values. Thank you, built in HTML5 validation! Cursory Google search showed really complicated solutions, so was a little taken aback. Turns out, it was easy peasy.
+
+**Link** [See my *simple* survey form](https://codepen.io/jainnielyn/pen/xMGBXR)
+
+
+### Day 60: January 25, Thu
+
 **Today's Progress**: 
 
 **Thoughts** 
 
 **Link** 
+
