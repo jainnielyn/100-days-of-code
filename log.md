@@ -378,3 +378,25 @@ Project idea #1: Vacation scheduler - User inputs places s/he wants to visit, co
 Project idea #2: A crawler of some sort - I've always wanted to try my hand at crawlers. Initial idea is creating a list of restaurants with lunch specials around the user indicated zip code(?). Useful for work lunches, discovering new restaurants.
 
 Project idea #3: None yet
+
+
+### Day 58: January 23, Wed
+
+**Today's Progress**: Completed CSS flexbox portion in freecodecamp. Completed CSS grid portion. Completed part 1 of web design projects, Tribute Page.
+
+**Thoughts** That was interesting... it was great to finally apply the things I've learned! I may not remember syntax of things, but since I know there are various ways to do things, it's easily solved by my friend Google.
+
+Also, for project #2: Realized that scripting does not work this way. One actually needs a website where things are, and then model a template that would extract data. I've changed my mind to pull data from [slickdeals](https://slickdeals.net/) into a .csv file, for Amazon arbitrage use (?).
+
+Met with the President of [Philippine American Chamber of Commerce (PACC)](https://www.philamchamberny.org/) to offer IT-related help. Looking forward to "real world" projects!
+
+**Link** [See my tribute page](https://codepen.io/jainnielyn/full/GzgBzL)
+
+
+### Day 59: January 24, Thu
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link** 
