@@ -402,11 +402,16 @@ Met with the President of [Philippine American Chamber of Commerce (PACC)](https
 **Link** [See my *simple* survey form](https://codepen.io/jainnielyn/pen/xMGBXR)
 
 
-### Day 60: January 25, Thu
+### Day 60: January 25, Fri
 
-**Today's Progress**: 
+**Today's Progress**: Worked on third web design project, product landing page.
 
-**Thoughts** 
+**Thoughts** This is more challenging than the other two, which is great. I was starting to think that it was too easy and I wasn't going to learn anything. I definitely need to work on my margin/positioning/alignment as it gets a little confusing at times which one to use, sometimes nothing happens, haha!
 
-**Link** 
+
+### Day 61-62: January 28-30, Mon-Wed
+
+**Today's Progress**: Worked on website for my brother. Completed a few more pages.
+
+**Thoughts** He is going away on a trip at the end of the week, and I would like to finish the website before then. 
 
