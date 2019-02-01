@@ -415,3 +415,9 @@ Met with the President of [Philippine American Chamber of Commerce (PACC)](https
 
 **Thoughts** He is going away on a trip at the end of the week, and I would like to finish the website before then. 
 
+
+### Day 63: January 31, Thu
+
+**Today's Progress**: Worked on freecodecamp's product landing page. Ticked some more requirements, everything except for the flexbox.
+
+**Thoughts** It does indeed stick more when you use what you've learned. This is good.
