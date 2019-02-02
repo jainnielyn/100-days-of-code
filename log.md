@@ -421,3 +421,12 @@ Met with the President of [Philippine American Chamber of Commerce (PACC)](https
 **Today's Progress**: Worked on freecodecamp's product landing page. Ticked some more requirements, everything except for the flexbox.
 
 **Thoughts** It does indeed stick more when you use what you've learned. This is good.
+
+
+### Day 64: February 2, Sat
+
+**Today's Progress**: Completed freecodecamp's product landing page project. 
+
+**Thoughts** It looks very basic, but I'm glad I could use some techniques I just learned.
+
+**Link** [See my product landing page](https://codepen.io/jainnielyn/full/bzEbyY)
