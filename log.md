@@ -430,3 +430,12 @@ Met with the President of [Philippine American Chamber of Commerce (PACC)](https
 **Thoughts** It looks very basic, but I'm glad I could use some techniques I just learned.
 
 **Link** [See my product landing page](https://codepen.io/jainnielyn/full/bzEbyY)
+
+
+### Day 65: February 3, Sun
+
+**Today's Progress**: Completed freecodecamp's technical documentation page project. 
+
+**Thoughts** This one was easier than the ones before!
+
+**Link** [See my documentation page project](https://codepen.io/jainnielyn/full/exROZj)
