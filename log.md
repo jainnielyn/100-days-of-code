@@ -439,3 +439,24 @@ Met with the President of [Philippine American Chamber of Commerce (PACC)](https
 **Thoughts** This one was easier than the ones before!
 
 **Link** [See my documentation page project](https://codepen.io/jainnielyn/full/exROZj)
+
+
+### Day 66: February 4, Mon
+
+**Today's Progress**: Worked on freecodecamp's portfolio page project.
+
+**Thoughts** This is simple, but tricky...
+
+
+### Day 67: February 5, Tue
+
+**Today's Progress**: Ticked all user stories - just styling left!
+
+**Thoughts** Think one user story at a time, easier to wrap my head around - and will be finished before I know it.
+
+
+### Day 68: February 7, Wed
+
+**Today's Progress**: Completed 90% of styling! 
+
+**Thoughts** Still not happy with the contact me section though... 
