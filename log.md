@@ -455,21 +455,14 @@ Met with the President of [Philippine American Chamber of Commerce (PACC)](https
 **Thoughts** Think one user story at a time, easier to wrap my head around - and will be finished before I know it.
 
 
-### Day 68: February 7, Wed
+### Day 68: February 8, Thu
 
 **Today's Progress**: Completed 90% of styling! 
 
 **Thoughts** Still not happy with the contact me section though... 
 
 
-### Day 69: February 8, Thu
-
-**Today's Progress**: Fixed it a little bit more, but still lacks something.
-
-**Thoughts** Didn't have much time today, had to leave earlier. Just a little bit more...
-
-
-### Day 70: February 9, Fri
+### Day 69: February 9, Fri
 
 **Today's Progress**: Completed freecodecamp's portfolio page project!
 
