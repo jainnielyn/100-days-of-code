@@ -460,3 +460,19 @@ Met with the President of [Philippine American Chamber of Commerce (PACC)](https
 **Today's Progress**: Completed 90% of styling! 
 
 **Thoughts** Still not happy with the contact me section though... 
+
+
+### Day 69: February 8, Thu
+
+**Today's Progress**: Fixed it a little bit more, but still lacks something.
+
+**Thoughts** Didn't have much time today, had to leave earlier. Just a little bit more...
+
+
+### Day 70: February 9, Fri
+
+**Today's Progress**: Completed freecodecamp's portfolio page project!
+
+**Thoughts** Added twitter to contact me section, and moved heading to the left. There are a lot of ways to center and middle align things, and have spacing, I learned a bit more during this exercise.
+
+**Link** [See my portfolio page](https://codepen.io/jainnielyn/pen/JxJLJK)
