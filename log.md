@@ -469,3 +469,30 @@ Met with the President of [Philippine American Chamber of Commerce (PACC)](https
 **Thoughts** Added twitter to contact me section, and moved heading to the left. There are a lot of ways to center and middle align things, and have spacing, I learned a bit more during this exercise.
 
 **Link** [See my portfolio page](https://codepen.io/jainnielyn/pen/JxJLJK)
+
+
+### Day 70: February 10, Sat
+
+**Today's Progress**: Did some research on email hosting for nonprofit I'm helping.
+
+**Thoughts** Completed the FCC Web developer course, next step is creating my projects. But for that day, I researched the value of hosting your email separate from your web host, and if bluehost was a good one. Bluehost seems good, and migration doesn't seem too difficult. 
+
+## Project: Vacation Scheduler
+### Day 71: February 11, Mon
+
+**Today's Progress**: Drafted vacation scheduler project on paper.
+
+**Thoughts** I find that it helps a lot to write down first a plan - what the program does (the cycle from beginning to end), the features, and even basic design - on paper! - before starting. It becomes a concrete to-do list, and I wouldn't be lost going down a rabbit hole somewhere. 
+
+Ended up with 4 pages, good starting point! I realize it is a bigger project than I originally thought, and I don't know yet what technologies I need to use, but it's totally okay. I'll just start with what I know.
+
+**Link** [Sneak peek of plan](https://twitter.com/jainnielyn/status/1095271999390273536)
+
+
+### Day 72: February 12, Tue
+
+**Today's Progress**: Started building the homepage. Researched API that can pick places.
+
+**Thoughts** 
+
+**Link** 
