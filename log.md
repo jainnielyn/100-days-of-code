@@ -493,6 +493,6 @@ Ended up with 4 pages, good starting point! I realize it is a bigger project tha
 
 **Today's Progress**: Started building the homepage. Researched API that can pick places.
 
-**Thoughts** 
+**Thoughts** Got excited after creating the simple input form! (It's really happening!) After a brief research, I've decided to use Google's Maps JavaScript API and Places for my project. $200 worth of transactions is free monthly, and this should be enough. Initially, was overwhelmed by what I need to do, trying to foresee all the tools I will need, but realized I only need to take it one step at a time. 
 
-**Link** 
+Next step: Showing a map on the page, then enabling the search function, then "adding" places to the itinerary.
