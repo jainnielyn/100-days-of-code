@@ -498,3 +498,14 @@ Ended up with 4 pages, good starting point! I realize it is a bigger project tha
 Next step: Showing a map on the page, then enabling the search function, then "adding" places to the itinerary.
 
 **Link** [Vacation scheduler page](https://twitter.com/jainnielyn/status/1095314647949983747)
+
+
+### Day 73: February 13, Wed
+
+**Today's Progress**: Added map to page with disabled controls, gets user's location as starting point in the map.
+
+**Thoughts** Wow, google maps is really vast. There's so many properties. On second thought, I don't want it to tag where the user lives. That's creepy.
+
+Next step: Hide API key, have a search bar for vacation place.
+
+**Link** [See it](https://twitter.com/jainnielyn/status/1095646493514649600)
