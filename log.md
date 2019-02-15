@@ -509,3 +509,13 @@ Next step: Showing a map on the page, then enabling the search function, then "a
 Next step: Hide API key, have a search bar for vacation place.
 
 **Link** [See it](https://twitter.com/jainnielyn/status/1095646493514649600)
+
+
+### Day 74: February 15, Fri
+
+**Today's Progress**: Revised geocoding from before, added search box. Switched to Visual Code Studio IDE.
+
+**Thoughts** Now it doesn't create a marker where the user is, just goes to the general location. Read part of the Places library, added a search bar on map. Today was not very productive, sometimes the maps API loads, sometimes it doesn't! Odd behavior as all the code I have right now is barely edited from their examples. 
+
+Switched to Visual Code Studio IDE. Was using Brackets, but it was throwing errors on code that it shouldn't be throwing errors for. Decided on this as I've heard about Sublime text (for Ubuntu), and this is the Windows/Mac counterpart.
+
