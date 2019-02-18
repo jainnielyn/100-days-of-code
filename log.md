@@ -519,3 +519,19 @@ Next step: Hide API key, have a search bar for vacation place.
 
 Switched to Visual Code Studio IDE. Was using Brackets, but it was throwing errors on code that it shouldn't be throwing errors for. Decided on this as I've heard about Sublime text (for Ubuntu), and this is the Windows/Mac counterpart.
 
+
+### Day 75: February 16, Sat
+
+**Today's Progress**: Fixed map to always load.
+
+**Thoughts** Sometimes the map doesn't load, and after looking it up, realized it was because of async and defer. Read up on it, and fixed the issue. A text box then got misaligned, spent more time than expected trying to fix it.
+
+I think I don't know enough Javascript to attempt this project, as I spend so much time looking up something, even basic things I should already know (like async and defer). I will finish the Javascript portion of freecodecamp and come back to this project.
+
+
+## Project postponed, FCC Javascript
+### Day 76: February 18, Mon
+
+**Today's Progress**: Halfway through freecodecamp's Javascript intro.
+
+**Thoughts** Easy peasy, though I did learn a few nuggets. Since strings are immutable in JS, a variable's nth index cannot be replaced by assignment, must assign a whole new string to the variable. I knew this before, but didn't realize this is an implication.
