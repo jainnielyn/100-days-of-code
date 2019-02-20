@@ -546,6 +546,6 @@ I think I don't know enough Javascript to attempt this project, as I spend so mu
 
 ### Day 78: February 20, Wed
 
-**Today's Progress**: Worked on things for the nonprofit today, fixed some design issues on their wix website.
+**Today's Progress**: Created a tracker for the nonprofit today. Worked on FCC Javascript some more.
 
-**Thoughts** 
+**Thoughts** Was going to implement some formatting changes for the nonprofit, but the account they gave me access to had no permission to duplicate (backup) the live site. Created a tracker instead for all the things to do. Also worked through more Javascript lessons from freecodecamp. New nuggets were learned.
