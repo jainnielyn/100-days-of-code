@@ -535,3 +535,17 @@ I think I don't know enough Javascript to attempt this project, as I spend so mu
 **Today's Progress**: Halfway through freecodecamp's Javascript intro.
 
 **Thoughts** Easy peasy, though I did learn a few nuggets. Since strings are immutable in JS, a variable's nth index cannot be replaced by assignment, must assign a whole new string to the variable. I knew this before, but didn't realize this is an implication.
+
+
+### Day 77: February 19, Tue
+
+**Today's Progress**: Completed up to JS objects.
+
+**Thoughts** Still pretty easy, learned some new things though like shift and unshift, ability to create a variable without "var" which automatically makes it a global variable, if function doesn't have a return statement then value is undefined, existence of >== and <==, IF uses type conversion while SWITCH uses strict equality.
+
+
+### Day 78: February 20, Wed
+
+**Today's Progress**: Worked on things for the nonprofit today, fixed some design issues on their wix website.
+
+**Thoughts** 
