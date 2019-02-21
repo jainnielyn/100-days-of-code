@@ -549,3 +549,10 @@ I think I don't know enough Javascript to attempt this project, as I spend so mu
 **Today's Progress**: Created a tracker for the nonprofit today. Worked on FCC Javascript some more.
 
 **Thoughts** Was going to implement some formatting changes for the nonprofit, but the account they gave me access to had no permission to duplicate (backup) the live site. Created a tracker instead for all the things to do. Also worked through more Javascript lessons from freecodecamp. New nuggets were learned.
+
+
+### Day 79: February 21, Thu
+
+**Today's Progress**: Worked on freecodecamp's Javascript, basic section.
+
+**Thoughts** Ah, at first I was worried it was too easy, but now it's increasing complexity. The "record collection" section is surprisingly a big jump in difficulty from previous segments! Still working on it..
