@@ -14,3 +14,6 @@ Also - learned some git! Came across it before, but now felt the need to learn i
 
 
 ### R1D2
+Next task for Udacity's Miwok project (an app that teaches another language) is to add audio files (correct pronunciation) to each word. I had to create a separate small app to test out MediaPlayer. Very simple, it only has 2 buttons - play and pause.
+
+Success! The best part is, it worked at first run!! How rare. I then added code to release resources on exit of the app.
