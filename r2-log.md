@@ -17,3 +17,37 @@ Also - learned some git! Came across it before, but now felt the need to learn i
 Next task for Udacity's Miwok project (an app that teaches another language) is to add audio files (correct pronunciation) to each word. I had to create a separate small app to test out MediaPlayer. Very simple, it only has 2 buttons - play and pause.
 
 Success! The best part is, it worked at first run!! How rare. I then added code to release resources on exit of the app.
+
+
+### R1D3
+Experimented with other functionality, added skip 10 seconds and rewind 10 seconds (getCurrentPosition and seekTo) to the mini project.
+
+Went back to the Miwok project, next task is to add the little audio files for each word. Action plan: Add play button to the UI, save all the res files, modify Word class to relate the audio file to the correct word and set the onclick listener/method to play audio file.
+
+### R1D4
+### R1D5
+### R1D6
+### R1D7
+### R1D8
+### R1D9
+### R1D10
+### R1D11
+### R1D12
+### R1D13
+### R1D14
+### R1D15
+### R1D16
+### R1D17
+### R1D18
+### R1D19
+### R1D20
+### R1D21
+### R1D22
+### R1D23
+### R1D24
+### R1D25
+### R1D26
+### R1D27
+### R1D28
+### R1D29
+### R1D30
