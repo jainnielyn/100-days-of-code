@@ -25,6 +25,12 @@ Experimented with other functionality, added skip 10 seconds and rewind 10 secon
 Went back to the Miwok project, next task is to add the little audio files for each word. Action plan: Add play button to the UI, save all the res files, modify Word class to relate the audio file to the correct word and set the onclick listener/method to play audio file.
 
 ### R1D4
+So I had a choice how to implement the audio segment - either do it without tutorials, or with tutorials. I chose to do it without... but getting the play button just right was taking more time and energy than it should have!
+
+Went back and picked to do it with tutorials instead. Oddly, they don't start with adding the play button (although on previews the play button is already there?) They instead ask the students to just play an audio file no matter which item on the ListView is clicked.
+
+I can't quite focus as my brain is still trying to figure out how to place the play button. NOW I have it onscreen atleast, but it looks bad as it's another different square. It should just be floating on top of (overlay?) to the block of list item.
+
 ### R1D5
 ### R1D6
 ### R1D7
