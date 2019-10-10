@@ -22,7 +22,11 @@ Success! The best part is, it worked at first run!! How rare. I then added code 
 ### R1D3
 Experimented with other functionality, added skip 10 seconds and rewind 10 seconds (getCurrentPosition and seekTo) to the mini project.
 
-Went back to the Miwok project, next task is to add the little audio files for each word. Action plan: Add play button to the UI, save all the res files, modify Word class to relate the audio file to the correct word and set the onclick listener/method to play audio file.
+Went back to the Miwok project, next task is to add the little audio playback for each word. Action plan: 
+1. Add play button to the UI
+2. Save all the res files
+3. Modify Word class to relate the audio file to the correct word
+4. Set the onclick listener/method to play audio file.
 
 Link to [audio mini project](https://github.com/jainnielyn/Basic-audio-player).
 
