@@ -42,6 +42,10 @@ I can't quite focus as my brain is still trying to figure out how to place the p
 ### R1D5
 Hello RelativeLayout! I was able to get the play icon how I want it. I briefly thought of using RelativeLayout yesterday, but maybe there was another way without nesting another layout.
 
+To test setOnItemClickListener, I first tried to do the above (set it to play one audio no matter which item was clicked). After some trial and error yesterday and today, I was able to do it!
+
+Next up, setting each audio file to the correct word and playing the appropriate audio on item click.
+
 ### R1D6
 ### R1D7
 ### R1D8
