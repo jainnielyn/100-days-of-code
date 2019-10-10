@@ -10,10 +10,12 @@ Was stuck on Udacity's Android Basics, Miwok app - Lesson 4 #15-16 where I need 
 
 After watching the solution video, realized my original plan was the correct one, so reversed the brute force code, went back where I got stuck and realized why it wasn't working. I changed a constructor call in one activity, but didn't change it in the others so the app won't even run.
 
-Also - learned some git! Came across it before, but now felt the need to learn it (how am I going to 'experiment' with code while keeping the working code intact?) This Youtube video is pretty informative without being overwhelming. He goes through some examples which makes it easier to understand. https://www.youtube.com/watch?v=SWYqp7iY_Tc
+Also - learned some git! Came across it before, but now felt the need to learn it (how am I going to 'experiment' with code while keeping the working code intact?) This Youtube video is pretty informative without being overwhelming. He goes through some examples which makes it easier to understand. [link](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
 
-***Audio segment***
-**Mini audio player**
+### ***Audio segment***
+
+### **Mini audio player**
+
 ### R1D2
 Next task for Udacity's Miwok project (an app that teaches another language) is to add audio files (correct pronunciation) to each word. I had to create a separate small app to test out MediaPlayer. Very simple, it only has 2 buttons - play and pause.
 
