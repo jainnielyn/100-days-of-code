@@ -32,6 +32,8 @@ Went back and picked to do it with tutorials instead. Oddly, they don't start wi
 I can't quite focus as my brain is still trying to figure out how to place the play button. NOW I have it onscreen atleast, but it looks bad as it's another different square. It should just be floating on top of (overlay?) to the block of list item.
 
 ### R1D5
+Hello RelativeLayout! I was able to get the play icon how I want it. I briefly thought of using RelativeLayout yesterday, but maybe there was another way without nesting another layout.
+
 ### R1D6
 ### R1D7
 ### R1D8
