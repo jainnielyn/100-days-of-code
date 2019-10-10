@@ -12,17 +12,19 @@ After watching the solution video, realized my original plan was the correct one
 
 Also - learned some git! Came across it before, but now felt the need to learn it (how am I going to 'experiment' with code while keeping the working code intact?) This Youtube video is pretty informative without being overwhelming. He goes through some examples which makes it easier to understand. https://www.youtube.com/watch?v=SWYqp7iY_Tc
 
-
+***Audio segment***
+**Mini audio player**
 ### R1D2
 Next task for Udacity's Miwok project (an app that teaches another language) is to add audio files (correct pronunciation) to each word. I had to create a separate small app to test out MediaPlayer. Very simple, it only has 2 buttons - play and pause.
 
 Success! The best part is, it worked at first run!! How rare. I then added code to release resources on exit of the app.
 
-
 ### R1D3
 Experimented with other functionality, added skip 10 seconds and rewind 10 seconds (getCurrentPosition and seekTo) to the mini project.
 
 Went back to the Miwok project, next task is to add the little audio files for each word. Action plan: Add play button to the UI, save all the res files, modify Word class to relate the audio file to the correct word and set the onclick listener/method to play audio file.
+
+Link to [audio mini project](https://github.com/jainnielyn/Basic-audio-player).
 
 ### R1D4
 So I had a choice how to implement the audio segment - either do it without tutorials, or with tutorials. I chose to do it without... but getting the play button just right was taking more time and energy than it should have!
