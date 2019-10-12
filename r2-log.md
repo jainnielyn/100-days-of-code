@@ -47,6 +47,10 @@ To test setOnItemClickListener, I first tried to do the above (set it to play on
 Next up, setting each audio file to the correct word and playing the appropriate audio on item click.
 
 ### R1D6
+I did it! In the Word class, I added a constructor with and int parameter for the raw resource ID. In the Activity, I added the appropriate raw resource ID to each initialization of my Word class. 
+
+Then the tricky part was adding an event listener, set/onItemClick. I don't quite understand where it's getting the parameters (AdapterView parent, View view, int position, long id) from, but it should be explained in the Udacity videos. From there it was easy enough to call MediaPlayer.create() and start().
+
 ### R1D7
 ### R1D8
 ### R1D9
