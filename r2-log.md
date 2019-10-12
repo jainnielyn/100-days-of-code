@@ -51,6 +51,8 @@ I did it! In the Word class, I added a constructor with and int parameter for th
 
 Then the tricky part was adding an event listener, set/onItemClick. I don't quite understand where it's getting the parameters (AdapterView parent, View view, int position, long id) from, but it should be explained in the Udacity videos. From there it was easy enough to call MediaPlayer.create() and start().
 
+Implemented code changes to all the activites I had (different categories). After watching the Udacity walkthrough, I learned I could also use **get** for ArrayLists, instead of getItemAtPosition and typecasting the return value to Word. Kept both expressions in my code as a reminder.
+
 ### R1D7
 ### R1D8
 ### R1D9
