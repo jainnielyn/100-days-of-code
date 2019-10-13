@@ -56,8 +56,8 @@ Implemented code changes to all the activites I had (different categories). Afte
 ### R1D7
 Tried out Android Studio's auto-generated toString() method for the Word class.
 
-Learned about async callbacks, went back to the mini audio player to display a Toast message after audio is finished playing. 
-`Toast.maketext(this, "Song finished playing!", Toast.LENGTH_SHORT)`
+Learned about async callbacks, went back to the mini audio player to display a Toast message after audio is finished playing. Spent a little time wondering why it wasn't working, realized had to include `show` to display message.
+`Toast.makeText(this, "Song finished playing!", Toast.LENGTH_SHORT).show();`
 
 
 ### R1D8
