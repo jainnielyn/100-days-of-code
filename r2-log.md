@@ -59,6 +59,7 @@ Tried out Android Studio's auto-generated toString() method for the Word class.
 Learned about async callbacks, went back to the mini audio player to display a Toast message after audio is finished playing. Spent a little time wondering why it wasn't working, realized had to include `show` to display message.
 `Toast.makeText(this, "Song finished playing!", Toast.LENGTH_SHORT).show();`
 
+Implemented cleaning up resources after each audio file is played, and before each instantiation of mediaPlayer, in case user taps multiple list items in rapid succession. Audio should cut off the previous audio to play the next audio.
 
 ### R1D8
 ### R1D9
