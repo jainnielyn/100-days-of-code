@@ -54,6 +54,12 @@ Then the tricky part was adding an event listener, set/onItemClick. I don't quit
 Implemented code changes to all the activites I had (different categories). After watching the Udacity walkthrough, I learned I could also use **get** for ArrayLists, instead of getItemAtPosition and typecasting the return value to Word. Kept both expressions in my code as a reminder.
 
 ### R1D7
+Tried out Android Studio's auto-generated toString() method for the Word class.
+
+Learned about async callbacks, went back to the mini audio player to display a Toast message after audio is finished playing. 
+`Toast.maketext(this, "Song finished playing!", Toast.LENGTH_SHORT)`
+
+
 ### R1D8
 ### R1D9
 ### R1D10
