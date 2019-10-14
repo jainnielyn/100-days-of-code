@@ -61,7 +61,7 @@ Learned about async callbacks, went back to the mini audio player to display a T
 
 Implemented cleaning up resources after each audio file is played, and before each instantiation of mediaPlayer, in case user taps multiple list items in rapid succession. Audio should cut off the previous audio to play the next audio.
 
-### R1D8
+### R1D8 (14 October 2019)
 Learned about activity lifecycle. Implemented cleaning up resources when user leaves app. Keyboard shortcut: `Ctrl + O`
 
 On Lesson 5.26 of Android Basics: Multiscreen Apps
