@@ -54,7 +54,7 @@ Then the tricky part was adding an event listener, set/onItemClick. I don't quit
 Implemented code changes to all the activites I had (different categories). After watching the Udacity walkthrough, I learned I could also use **get** for ArrayLists, instead of getItemAtPosition and typecasting the return value to Word. Kept both expressions in my code as a reminder.
 
 ### R1D7
-Tried out Android Studio's auto-generated toString() method for the Word class.
+Tried out Android Studio's auto-generated toString() method for the Word class. Keyboard shortcut: `Alt + Insert`
 
 Learned about async callbacks, went back to the mini audio player to display a Toast message after audio is finished playing. Spent a little time wondering why it wasn't working, realized had to include `show` to display message.
 `Toast.makeText(this, "Song finished playing!", Toast.LENGTH_SHORT).show();`
@@ -62,6 +62,10 @@ Learned about async callbacks, went back to the mini audio player to display a T
 Implemented cleaning up resources after each audio file is played, and before each instantiation of mediaPlayer, in case user taps multiple list items in rapid succession. Audio should cut off the previous audio to play the next audio.
 
 ### R1D8
+Learned about activity lifecycle. Implemented cleaning up resources when user leaves app. Keyboard shortcut: `Ctrl + O`
+
+On Lesson 5.26 of Android Basics: Multiscreen Apps
+
 ### R1D9
 ### R1D10
 ### R1D11
