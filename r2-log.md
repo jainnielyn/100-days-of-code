@@ -64,9 +64,13 @@ Implemented cleaning up resources after each audio file is played, and before ea
 ### R1D8 (14 October 2019)
 Learned about activity lifecycle. Implemented cleaning up resources when user leaves app. Keyboard shortcut: `Ctrl + O`
 
-On Lesson 5.26 of Android Basics: Multiscreen Apps
-
 ### R1D9
+On Lesson 5.27 of Android Basics: Multiscreen Apps
+So the method from the tutorial is now deprecated... `public int requestAudioFocus (AudioManager.OnAudioFocusChangeListener l, int streamType, int durationHint)`
+I tried it anyway but here's the log `W/AudioManager: Use of stream types is deprecated for operations other than volume control`
+
+Would have to use the new method that's quite more complicated. I understand it a bit, would need to have a variable for AudioAttributes, and AudioFocusRequest (to set attributes), before calling RequestAudioFocus.
+
 ### R1D10
 ### R1D11
 ### R1D12
