@@ -73,6 +73,10 @@ I tried it anyway but here's the log: `W/AudioManager: Use of stream types is de
 Would have to use the new method that's quite more complicated. I understand it a bit, would need to have a variable for AudioAttributes, and AudioFocusRequest (to set attributes), before calling RequestAudioFocus.
 
 ### R1D10
+Ohh... it kinda works! There were a few obstacles, but now AudioFocusRequest gets granted and it plays the audio file! Not yet sure why it needed that much lines of code (PlaybackAttributes, duration of request - transient etc), maybe some of the lines are not essential, but I'll compare functionality to how it's supposed to be and then trim extra lines.
+
+I would also need to test out if my OnAudioFocusChangeListener actually works, as I thought it would handle if access is granted, but I still needed to start my MediaPlayer when access was granted.
+
 ### R1D11
 ### R1D12
 ### R1D13
