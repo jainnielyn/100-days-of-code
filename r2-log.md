@@ -88,6 +88,8 @@ My app is currently working (playing the correct audio when the list item is cli
 
 So I am trying to debug, I don't think those lines should be there. Tried adding log messages which weren't showing up, finally tried commenting out almost all the functionality, removing playing of audio, but when I clicked on a list item it was still playing! But realized I was revising the Colors Activity, but clicking on the Numbers Activity. LOL.
 
+Fixed! The first line still appears, but more importantly, the second line does not anymore. I have successfully requested and released audio focus, and resources. The app performs as expected!
+
 ### R1D12
 ### R1D13
 ### R1D14
