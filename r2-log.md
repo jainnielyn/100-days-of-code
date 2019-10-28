@@ -77,7 +77,16 @@ Ohh... it kinda works! There were a few obstacles, but now AudioFocusRequest get
 
 I would also need to test out if my OnAudioFocusChangeListener actually works, as I thought it would handle if access is granted, but I still needed to start my MediaPlayer when access was granted.
 
-### R1D11
+### R1D11 (28 October 2019)
+Got frustrated and stopped for a while, but back now. Ok, so yes it's weird but there has to be OnAudioFocusChangeListener, and also a MediaPlayer start when audio focus is granted. It seems like it's doubled up, but actually no, the real start of the audio is when audio focus is granted. In case during this playing something else gets audio focus (the user receives a text, etc.) then that's when the cases of OnAudioFocusChangeListener gets applied.
+
+My app is currently working (playing the correct audio when the list item is clicked) even after the audio focus request changes. However, I noticed entries on logcat these entries:
+
+`019-10-28 09:28:34.256 6883-6883/com.example.android.miwok V/MediaPlayer: cleanDrmObj: mDrmObj=null mDrmSessionId=null
+2019-10-28 09:28:34.273 6883-6883/com.example.android.miwok W/MediaPlayer: mediaplayer went away with unhandled events`
+
+So I am trying to debug, I don't think those lines should be there. Tried adding log messages which weren't showing up, finally tried commenting out almost all the functionality, removing playing of audio, but when I clicked on a list item it was still playing! But realized I was revising the Colors Activity, but clicking on the Numbers Activity. LOL.
+
 ### R1D12
 ### R1D13
 ### R1D14
