@@ -82,8 +82,9 @@ Got frustrated and stopped for a while, but back now. Ok, so yes it's weird but 
 
 My app is currently working (playing the correct audio when the list item is clicked) even after the audio focus request changes. However, I noticed entries on logcat these entries:
 
-`019-10-28 09:28:34.256 6883-6883/com.example.android.miwok V/MediaPlayer: cleanDrmObj: mDrmObj=null mDrmSessionId=null
-2019-10-28 09:28:34.273 6883-6883/com.example.android.miwok W/MediaPlayer: mediaplayer went away with unhandled events`
+`019-10-28 09:28:34.256 6883-6883/com.example.android.miwok V/MediaPlayer: cleanDrmObj: mDrmObj=null mDrmSessionId=null`
+
+`2019-10-28 09:28:34.273 6883-6883/com.example.android.miwok W/MediaPlayer: mediaplayer went away with unhandled events`
 
 So I am trying to debug, I don't think those lines should be there. Tried adding log messages which weren't showing up, finally tried commenting out almost all the functionality, removing playing of audio, but when I clicked on a list item it was still playing! But realized I was revising the Colors Activity, but clicking on the Numbers Activity. LOL.
 
