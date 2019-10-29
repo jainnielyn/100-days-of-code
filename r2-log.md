@@ -91,6 +91,14 @@ So I am trying to debug, I don't think those lines should be there. Tried adding
 Fixed! The first line still appears, but more importantly, the second line does not anymore. I have successfully requested and released audio focus, and resources. The app performs as expected!
 
 ### R1D12
+Still working on bugs... now some strange error messages come up which I don't think I"ve seen before.
+
+`2019-10-29 06:07:39.938 11208-11208/? E/e.android.miwo: Unknown bits set in runtime_flags: 0x8000`
+
+`2019-10-29 06:07:43.691 11208-11241/com.example.android.miwok E/libc: Access denied finding property "vendor.gralloc.disable_ahardware_buffer"`
+
+Surprisingly Google wasn't helpful, the first error seems to cause various issues for developers - crashing, not performing as expected... although mine things perform fine?
+
 ### R1D13
 ### R1D14
 ### R1D15
