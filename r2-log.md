@@ -100,7 +100,25 @@ Still working on bugs... now some strange error messages come up which I don't t
 Surprisingly Google wasn't helpful, the first error seems to cause various issues for developers - crashing, not performing as expected... although mine things perform fine?
 
 ### R1D13
+Quick one today, just went through the lesson on adding the play icon - but I already did it at the start (and picked a different play icon), so I didn't change my code aside from adding copies of my play icon into the different resolution folders.
+
+### ***Touch ripple effect: Miwok project***
+
 ### R1D14
+Lesson 04.28-30 were about adding touch feedback - enhanced user experience by having a little animation to let user know which button was clicked. `android:drawSelectorOnTop` is pretty nifty! Learned a bit about `FrameLayout` as well.
+
+There are multiple navigational patterns:
+1. Master detail layout - ex. email - user clicks on an item to expand
+2. Navigation drawer - ex. play store - user can pull the drawer from the left side of the screen
+3. Swipeable tabs - ex. Instagram - user can swipe left/right (or click tabs on the top bar) to go through the different segments
+Responsive design - different navigation styles should be used for different phones (varying screen real estate).
+
+Downloaded NeverThink to observe which navigational patterns they have. On the home screen, they have a slideshow style of different "channels" to watch. Below that, there are categories "Specials / Entertainment / Educational" and under each category there's little square cards for channels, which shows 2.5 cards so user knows they are scrollable left and right. 
+
+When one clicks on a channel, it plays a video but user can swipe right or left to switch to a different video under the same category. From the channel screen, there are multiple standard video buttons, play / like / share, and the browse button which brings the user back to the home screen.
+
+Started reading Navigation documentation and videos. 
+
 ### R1D15
 ### R1D16
 ### R1D17
