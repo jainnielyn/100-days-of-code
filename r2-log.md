@@ -119,8 +119,14 @@ When one clicks on a channel, it plays a video but user can swipe right or left 
 
 Started reading Navigation documentation and videos. 
 
+### ***Up button and swipe through categories: Miwok project***
+
 ### R1D15
-### R1D16
+Did a little more reading on Navigation.
+
+### R1D16 (2 November 2019)
+Completed reading "Get started with the Navigation component" and started implementing.
+
 ### R1D17
 ### R1D18
 ### R1D19
