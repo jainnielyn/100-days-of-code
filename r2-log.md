@@ -125,7 +125,7 @@ Started reading Navigation documentation and videos.
 Did a little more reading on Navigation.
 
 ### R1D16 (2 November 2019)
-Completed reading "Get started with the Navigation component" and started implementing.
+Completed reading "Get started with the Navigation component" and used it as a guide to try to set up navigation in the Miwok app.
 
 ### R1D17
 ### R1D18
