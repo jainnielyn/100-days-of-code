@@ -16,8 +16,10 @@ I spoke with a few people, and it seems like I was mistaken. Data science is hea
 
 I like creating effecient solutions, or optimizing existing solutions. I do not care about front end, or design. I guess more on logic. Which means... back end. As I am now comfortable with Python, will be starting with web developer backend route. The other option is creating software (desktop/mobile), but it's a different stack and would set me back.
 
+Also found [a pretty good guide](https://www.educative.io/blog/web-development-in-python#suited) on what technologies are needed to be a web developer.
+
 ### R1D3
-Met someone who works in Google. He recommended I create a simple chat application using sockets to understand Python more. It would be local to my computer. Looked up a tutorial and doing this today.
+Met someone who works in Google. He recommended I create a simple chat application using sockets to understand Python more. It would be local to my computer. Looked up a [tutorial](https://realpython.com/python-sockets/) and doing this today.
 
 ### R1D4
 
