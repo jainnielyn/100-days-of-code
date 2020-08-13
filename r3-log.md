@@ -21,6 +21,10 @@ Also found [a pretty good guide](https://www.educative.io/blog/web-development-i
 ### R1D3
 Met someone who works in Google. He recommended I create a simple chat application using sockets to understand Python more. It would be local to my computer. Looked up a [tutorial](https://realpython.com/python-sockets/) and doing this today.
 
+Started to understand how TCP connections work, client side and server side. Create the socket > bind > listen > connect > accept > send & receive > close. Created a super simple app that just echoes what the client has sent. However, connection terminates after just one line is sent. Want to enhance by being able to send multiple lines.
+
+Tomorrow will continue with the tutorial on handling multiple connections.
+
 ### R1D4
 
 ### R1D5 (Saturday, 15 August)
