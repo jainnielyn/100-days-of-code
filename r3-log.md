@@ -19,7 +19,7 @@ I like creating effecient solutions, or optimizing existing solutions. I do not 
 Also found [a pretty good guide](https://www.educative.io/blog/web-development-in-python#suited) on what technologies are needed to be a web developer.
 
 ### R1D3
-Met someone who works in Google. He recommended I create a simple chat application using sockets to understand Python more. It would be local to my computer. Looked up a [tutorial](https://realpython.com/python-sockets/) and doing this today.
+Met someone who works in Google. He recommended I create a simple chat application using sockets to understand Python more. It would be local to my computer. Looked up a [tutorial](https://realpython.com/python-sockets/) with the [code in github](https://github.com/realpython/materials/tree/master/python-sockets-tutorial) and doing this today.
 
 Started to understand how TCP connections work, client side and server side. Create the socket > bind > listen > connect > accept > send & receive > close. Created a super simple app that just echoes what the client has sent. However, connection terminates after just one line is sent. Want to enhance by being able to send multiple lines.
 
@@ -27,9 +27,11 @@ Tomorrow will continue with the tutorial on handling multiple connections.
 
 ### R1D4
 
-### R1D5 (Saturday, 15 August)
+It is a challenging concept to grasp, the sockets and selectors are quite foreign. It took a while, but I had a general understanding of the server side, will work on the client side tomorrow. 
 
-### R1D6
+### R1D5 
+
+### R1D6 (Saturday, 15 August)
 
 ### R1D7
 
