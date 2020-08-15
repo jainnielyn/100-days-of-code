@@ -31,6 +31,8 @@ It is a challenging concept to grasp, the sockets and selectors are quite foreig
 
 ### R1D5 
 
+Understood how the client side works, but when I ran the scripts, there was unexpected output. A few print statements later, I still don't quite understand. Especially data.outb, when I try to print it out earlier in the function, it's empty. But it prints out a few lines later - it is not manipulated in between!
+
 ### R1D6 (Saturday, 15 August)
 
 ### R1D7
@@ -39,7 +41,7 @@ It is a challenging concept to grasp, the sockets and selectors are quite foreig
 
 ### R1D9
 
-### R1D10
+### R1D10 (Wednesday, 19 August)
 
 ### R1D11
 
