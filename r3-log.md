@@ -35,7 +35,11 @@ Understood how the client side works, but when I ran the scripts, there was unex
 
 ### R1D6 (Saturday, 15 August)
 
+Not yet sure why that happens, but I found [a 5-part tutorial series in Youtube](https://www.youtube.com/watch?v=Lbfe3-v7yE0) which makes sockets easier to understand. 
+
 ### R1D7
+
+Continued with the tutorial series, this method is more straightforward and easier to understand. He explains well. A new concept to grasp is bytes and encoding/decoding. I am up to the chatroom server bit, significantly more complex than the previous examples.
 
 ### R1D8
 
