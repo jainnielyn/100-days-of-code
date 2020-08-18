@@ -41,7 +41,11 @@ Not yet sure why that happens, but I found [a 5-part tutorial series in Youtube]
 
 Continued with the tutorial series, this method is more straightforward and easier to understand. He explains well. A new concept to grasp is bytes and encoding/decoding. I am up to the chatroom server bit, significantly more complex than the previous examples.
 
+Re-watched the server portion again, and I understand it more now. Was studying the client portion, but could use more clarity.
+
 ### R1D8
+
+Trying to understand how the server and client fit together. Testing the code on my own.
 
 ### R1D9
 
