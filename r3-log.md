@@ -47,9 +47,11 @@ Re-watched the server portion again, and I understand it more now. Was studying 
 
 ### R1D9
 
-Trying to understand how the server and client fit together. Testing the code on my own.
+Trying to understand how the server and client fit together. Testing the code on my own. Actually, can't focus that much today. Decided to take an off day.
 
 ### R1D10 (Wednesday, 19 August)
+
+Actually tested code on my own - and after a bit of debugging, it works! Server is up and running, multiple clients can connect and send messages, which are also seen by the other connected clients. The not-so-good part though is that the client doesn't get messages from the other clients if they themselves do not send a message. I thought it was supposed to update if a client just hits enter. 
 
 ### R1D11
 
