@@ -61,6 +61,10 @@ Started learning about API's from [FreeCodeCamp's tutorial](https://www.youtube.
 
 Continued with the API tutorial. Implemented COMPLIMENTR's sending an SMS. Flask is not new to me, but I have not mastered it either. It will be good to practice more.
 
+Skipped the Javascript part of the API tutorial, completed the others.
+
+Tinkered with the Harry Potter API, and made a little spells quiz game! Will optimize first before uploading to github.
+
 ### R1D13 (Saturday, 22 August)
 
 ### R1D14
