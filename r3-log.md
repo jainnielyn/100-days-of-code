@@ -55,9 +55,13 @@ Actually tested code on my own - and after a bit of debugging, it works! Server 
 
 ### R1D11
 
+Started learning about API's from [FreeCodeCamp's tutorial](https://www.youtube.com/watch?v=GZvSYJDk-us). Started thinking about API's I can play around with - apparently there's [a Harry Potter one](https://www.potterapi.com/)!
+
 ### R1D12
 
-### R1D13
+Continued with the API tutorial. Implemented COMPLIMENTR's sending an SMS. Flask is not new to me, but I have not mastered it either. It will be good to practice more.
+
+### R1D13 (Saturday, 22 August)
 
 ### R1D14
 
@@ -65,7 +69,7 @@ Actually tested code on my own - and after a bit of debugging, it works! Server 
 
 ### R1D16
 
-### R1D17
+### R1D17 (Wednesday, 26 August)
 
 ### R1D18
 
