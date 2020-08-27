@@ -65,7 +65,11 @@ Skipped the Javascript part of the API tutorial, completed the others.
 
 Tinkered with the Harry Potter API, and made a little spells quiz game! Will optimize first before uploading to github.
 
-### R1D13 (Saturday, 22 August)
+### R1D13 (Thursday, 27 August)
+
+Had a few days break. I optimized my code a bit more and finished my Harry Potter spell quiz, and uploaded to github! Find it [here](https://github.com/jainnielyn/HP-quiz). 
+
+I am also thinking about creating a web app from this, so it's easier to share with others. I can use Heroku. And I can practice with Jinja/Flask, or something else. 
 
 ### R1D14
 
@@ -73,7 +77,7 @@ Tinkered with the Harry Potter API, and made a little spells quiz game! Will opt
 
 ### R1D16
 
-### R1D17 (Wednesday, 26 August)
+### R1D17 
 
 ### R1D18
 
