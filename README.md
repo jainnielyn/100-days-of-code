@@ -1,9 +1,9 @@
-# I've joined the #100DaysOfCode Challenge
+# I've joined the #100DaysOfCode Challenge. Currently on [trial# 3](r3-log.md).
 
 ## Contents
 
 * [Rules](rules.md)
-* [Log - click here to see my progress](log.md)
+* [Log - click here to see my progress](r3-log.md)
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
 
