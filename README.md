@@ -1,4 +1,4 @@
-# I've joined the #100DaysOfCode Challenge. Currently on [trial# 3](r3-log.md).
+# I've joined the #100DaysOfCode Challenge. Currently on [try# 3](r3-log.md).
 
 ## Contents
 
