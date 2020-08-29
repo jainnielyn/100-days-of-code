@@ -73,7 +73,13 @@ I am also thinking about creating a web app from this, so it's easier to share w
 
 ### R1D14
 
-### R1D15
+I realize I was thinking more of a Javascript web app, where the user clicks on an answer, and gets notified if it's right or wrong (versus a Flask/Jinja web app where the the whole page needs to refresh). Looked into JS frameworks, apparently Vue is the easiest to learn despite it not coming with the bells and whistles. However, it's above my skills for now.
+
+Let me try to build it in Flask first. I've only used Flask once ever, so this will be a learning experience.
+
+### R1D15 (Saturday, 29 August)
+
+Following along with FreeCodeCamp's [Flask Tutorial on Youtube](https://www.youtube.com/watch?v=Z1RJmh_OqeA).
 
 ### R1D16
 
