@@ -81,6 +81,8 @@ Let me try to build it in Flask first. I've only used Flask once ever, so this w
 
 Following along with FreeCodeCamp's [Flask Tutorial on Youtube](https://www.youtube.com/watch?v=Z1RJmh_OqeA).
 
+Decided to install Ubuntu on my computer for ease of development (and focus!). Spent time on backing up, installing, and setting up the system and software. 
+
 ### R1D16
 
 ### R1D17 
