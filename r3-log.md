@@ -85,9 +85,15 @@ Decided to install Ubuntu on my computer for ease of development (and focus!). S
 
 ### R1D16
 
-Testing
+Started on the FCC Flask tutorial. It's to create a simple todo web app, using Flask.
 
 ### R1D17 
+
+Completed the tutorial. Uploaded the app as a private repository on github, and also deployed to [heroku](https://flask-todo-app-jc.herokuapp.com/).
+
+It's very simple, but that's what basics are for. Now I have more of a grasp on app routing with Flask, Jinja syntax and some SQL Alchemy. Databases are not new to me, so it wasn't that difficult.
+
+Next project: Turning the Harry Potter spell quiz into a flask web app.
 
 ### R1D18
 
