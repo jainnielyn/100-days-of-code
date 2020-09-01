@@ -95,7 +95,13 @@ It's very simple, but that's what basics are for. Now I have more of a grasp on 
 
 Next project: Turning the Harry Potter spell quiz into a flask web app.
 
-### R1D18
+### R1D18 (Tuesday, 1 September)
+
+Ok, I realize the quiz game I want to create should be created using Javascript, which I don't really want to cross at this stage. I want to be more familiar with flask first, and creating flask-based projects. Or really, just projects. I have a few I have not uploaded into github, maybe I can do those. I can optimize and deploy to Heroku as well.
+
+I spent today doing looking up Jr dev portoflios - see what their projects are, how complex... On the portfolio website, each project needs to have a little summary on what it does, hopefully has a live demo site, a link to the github repository, and the live site should have instructions on how to use it.
+
+I also looked up backend project ideas - databases and API's stuck to mind. User authentication, inventory/online shopping website... hey, maybe I can add a login screen to the todo app I did.
 
 ### R1D19
 
